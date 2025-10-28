@@ -5,9 +5,10 @@ function About() {
     <section id="about" className="about">
       <h2>About Me</h2>
       <p>
-        I'm an Electrical Engineer passionate about circuit design, embedded systems,
-        and web development. I enjoy solving problems and building things that blend
-        creativity with logic.
+        Recent Electrical Engineering Graduate from University of Washington.
+        Since graduation I have taken a course with Evangadi program for
+        fullstack development to strengthen my knowledge on the software side
+        with in the intenstion of transitioning to machine learning.
       </p>
     </section>
   );
