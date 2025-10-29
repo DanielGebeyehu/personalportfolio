@@ -12,7 +12,7 @@ function Projects() {
           Nelfix-Clone
         </a>
       ),
-      desc: "Netflix Clone",
+      desc: "A clone of Netflix ",
     },
     {
       title: (
@@ -23,18 +23,30 @@ function Projects() {
           Amazon-Clone
         </a>
       ),
-      desc: "Netflix Clone",
+      desc: "A clone of Amazon",
     },
     {
       title: (
         <a
-          style={{ textDecoration: "none", color: "Black" }}
+          style={{ textDecoration: "none", color: "grey" }}
           href="https://danielgebeyehu.com/"
         >
           First Portfolio
         </a>
       ),
-      desc: "Portfolio",
+      desc: "Prior Personal  Portfolio",
+    },
+    {
+      title: (
+        <a
+          style={{ textDecoration: "none", color: "Black" }}
+          href="https://daaforrum.netlify.app/
+"
+        >
+          Evangai Forum
+        </a>
+      ),
+      desc: "Sample Forum website",
     },
   ];
 
